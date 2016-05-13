@@ -14,5 +14,5 @@ Package.describe({
 Package.onUse(function(api) {
     api.versionsFrom("1.2.0.2");
     api.use("tlt:infinite-gallery@0.1.1");
-    api.addFiles(["infinite.gallery.angular.js"], "client");
+    api.addFiles(["dist/infinite.gallery.angular.js"], "client");
 });
