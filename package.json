@@ -1,6 +1,6 @@
 {
   "name": "@tlt/infinite-gallery-angular",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Exposing @tlt/infinite-gallery as angular directive",
   "author": "Per Steffensen <steff@teletronics.ae>",
   "license": "Apache-2.0",
