@@ -1,0 +1,37 @@
+{
+  "name": "tlt.infinite-gallery-angular",
+  "description": "Exposing tlt.infinite-gallery as angular directive",
+  "authors": [
+    "Per Steffensen <steff@teletronics.ae>"
+  ],
+  "main": "dist/infinite.gallery.angular.js",
+  "moduleType": [
+    "globals",
+    "amd",
+    "node",
+    "es6"
+  ],
+  "keywords": [
+    "pictures",
+    "images",
+    "gallery",
+    "scroll",
+    "angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TeletronicsDotAe/infinite-gallery-angular.git"
+  },
+  "homepage": "https://github.com/TeletronicsDotAe/infinite-gallery-angular",
+  "dependencies": {
+    "tlt.infinite-gallery": ">=0.1.1"
+  },
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
