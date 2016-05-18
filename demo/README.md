@@ -7,12 +7,12 @@
 
 ## Bower
 
-No demonstration the Angular wrapper using Bower, but see the Bower-demo of the "raw" componenet [here](https://github.com/TeletronicsDotAe/infinite-gallery/demo)
+No demonstration the Angular wrapper using Bower, but see the Bower-demo of the "raw" componenet [here](https://github.com/TeletronicsDotAe/infinite-gallery/tree/master/demo)
 
 
 ## NPM
 
-No demonstration the Angular wrapper using NPM, but see the NPM-demo of the "raw" componenet [here](https://github.com/TeletronicsDotAe/infinite-gallery/demo)
+No demonstration the Angular wrapper using NPM, but see the NPM-demo of the "raw" componenet [here](https://github.com/TeletronicsDotAe/infinite-gallery/tree/master/demo)
 
 ## Meteor
 
@@ -28,4 +28,4 @@ Open file http://localhost:3000 in your favorite browser (at leat Firefox and Ch
 
 ## Checked out code
 
-No demonstration the Angular wrapper using the checked out code, but see the checked-out-demo of the "raw" componenet [here](https://github.com/TeletronicsDotAe/infinite-gallery/demo)
+No demonstration the Angular wrapper using the checked out code, but see the checked-out-demo of the "raw" componenet [here](https://github.com/TeletronicsDotAe/infinite-gallery/tree/master/demo)
