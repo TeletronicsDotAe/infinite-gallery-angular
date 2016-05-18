@@ -16,7 +16,7 @@ No demonstration the Angular wrapper using NPM, but see the NPM-demo of the "raw
 
 ## Meteor
 
-Fetch the npm dependencies
+Start the meteor app
 ```
 cd meteor
 meteor
