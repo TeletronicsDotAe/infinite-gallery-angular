@@ -23,8 +23,7 @@ meteor
 ```
 *Note* your are not using the local source, but a release from the meteor repository
 
-Open file http://localhost:3000 in your favorite browser (at leat Firefox and Chrome seems to work)
-
+Point your favorite browser at http://localhost:3000 (at leat Firefox and Chrome seems to work)
 
 ## Checked out code
 
