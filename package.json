@@ -36,6 +36,7 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
+    "angular": ">=1.0.9",
     "@tlt/infinite-gallery": ">=0.1.1"
   },
   "devDependencies": {
