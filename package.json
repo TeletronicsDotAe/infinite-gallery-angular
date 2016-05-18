@@ -10,10 +10,10 @@
     "url": "https://github.com/TeletronicsDotAe/infinite-gallery-angular.git"
   },
   "files": [
-    "dist-node/infinite.gallary.angular.js"
+    "dist-node/infinite.gallery.angular.js"
   ],
-  "main": "dist-node/infinite.gallary.angular.js",
-  "jsnext:main": "src/infinite.gallary.angular.js",
+  "main": "dist-node/infinite.gallery.angular.js",
+  "jsnext:main": "src/infinite.gallery.angular.js",
   "jspm": {
     "main": "dist/infinite.gallery.angular.js"
   },
