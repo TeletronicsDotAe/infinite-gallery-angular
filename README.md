@@ -4,7 +4,7 @@ Exposing [infinite-gallery](https://github.com/TeletronicsDotAe/infinite-gallery
 
 ## Usage
 
-To use the component, essentially add a `<div tlt-infinite-gallery image-provider="xxx" fetch-ahead="xxx" column-width="xxx" min-image-width-height-to-display-it="xxx">`-tag to your angular-compiled HTML. For details on the values for the tag-attributes see the README for [infinite-gallery](https://github.com/TeletronicsDotAe/infinite-gallery)
+To use the component, essentially add a `<div tlt-infinite-gallery image-provider="xxx" fetch-ahead="xxx" column-width="xxx" min-image-width-height-to-display-it="xxx">`-tag to your angular-compiled HTML. For details on the values for the tag-attributes see the README for [infinite-gallery](https://github.com/TeletronicsDotAe/infinite-gallery). It is important that there is a global variable `angular` available, so that the component can successfully perform a `angular.module("tltInfiniteGallery", []).directive(...)`. Afterwards in your app.js you need to grap the installed module by `angular.module('myapp',[ ..., 'tltInfiniteGallery']);`.
 
 See [demo](demo) for demonstrations of using the componenet
 
