@@ -43,8 +43,8 @@ session@1.1.0
 spacebars@1.0.6
 spacebars-compiler@1.0.6
 templating@1.1.1
-tlt:infinite-gallery@0.2.0
-tlt:infinite-gallery-angular@0.2.0
+tlt:infinite-gallery@0.3.0
+tlt:infinite-gallery-angular@0.3.0
 tracker@1.0.7
 ui@1.0.6
 underscore@1.0.3

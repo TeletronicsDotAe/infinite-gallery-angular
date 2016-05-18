@@ -25,7 +25,7 @@
   "homepage": "https://github.com/TeletronicsDotAe/infinite-gallery-angular",
   "dependencies": {
     "angular": ">=1.0.9",
-    "tlt.infinite-gallery": ">=0.1.1"
+    "tlt.infinite-gallery": ">=0.3.0"
   },
   "license": "Apache-2.0",
   "ignore": [

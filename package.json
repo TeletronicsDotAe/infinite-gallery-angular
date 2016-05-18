@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "angular": ">=1.0.9",
-    "@tlt/infinite-gallery": ">=0.1.1"
+    "@tlt/infinite-gallery": ">=0.3.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
