@@ -23,3 +23,7 @@ NPM
 Meteor
 * [https://atmospherejs.com/tlt/infinite-gallery-angular](https://atmospherejs.com/tlt/infinite-gallery-angular)
 
+## Additional doc
+
+See [doc](doc)
+
