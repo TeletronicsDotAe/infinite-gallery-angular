@@ -21,5 +21,5 @@ NPM
 *Note* the npm releases currently do not work
 
 Meteor
-* See [atmospherejs.com](https://atmospherejs.com/tlt/infinite-gallery-angular)
+* [https://atmospherejs.com/tlt/infinite-gallery-angular](https://atmospherejs.com/tlt/infinite-gallery-angular)
 
